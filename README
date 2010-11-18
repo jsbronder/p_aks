@@ -1,0 +1,7 @@
+This is an implementation of the AKS primality test published
+by Manindra Agrawal, Neeraj Kayal, and Nitin Saxena, on August
+6 2002, in a paper titled PRIMES is in P.[1]
+
+
+[1] http://mathworld.wolfram.com/AKSPrimalityTest.html
+
